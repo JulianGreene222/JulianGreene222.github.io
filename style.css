@@ -1,0 +1,13 @@
+body {background-color: black;}
+
+p {color: white;}
+
+h3 {color: white; font-size: large}
+
+h1 {color: orange; border-style: double; text-align: center;}
+
+h2 {color: #FFEAC9; font-size: medium;}
+
+a:visited {color: lightblue;}
+
+body {margin: 50px;}
